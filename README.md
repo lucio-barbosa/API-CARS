@@ -1,7 +1,9 @@
 # 🚗 API-CARS
 
+## Arquitetura do Projeto
+
 <p align="center">
-  <img src="imagens/api-cars-arquitetura.png" alt="Arquitetura API-CARS" width="100%">
+    <img src="docs/imagens/api-cars-arquitetura.png" alt="Arquitetura API-CARS" width="900">
 </p>
 
 <p align="center">
